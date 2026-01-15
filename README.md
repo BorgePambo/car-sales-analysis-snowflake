@@ -29,7 +29,17 @@ Objetivo: criar pipelines ETL (Bronze → Silver → Gold) e gerar dashboards no
 ## Tecnologias
 - Snowflake (data warehouse)  
 - Power BI (visualização)  
-- GitHub (versionamento de código)  
+- GitHub (versionamento de código)
+
+## Dashboard
+O dashboard desenvolvido em Power BI está na pasta **`dashboard/relatorio.pdf`**.  
+Visualiza:  
+- Total de vendas e faturamento por mês  
+- Desempenho por canal e modelo de carro  
+- Desempenho por canal de venda  
+- Desempenho por Cidade  
+<img width="1331" height="757" alt="dashboard-relat" src="https://github.com/user-attachments/assets/18f61a2c-09ae-4095-9d42-dd1993818f7b" />
+
 
 ## Como usar
 1. Executar scripts SQL na ordem: `bronze.sql` → `silver.sql` → `gold.sql`  
