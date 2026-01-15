@@ -8,9 +8,9 @@ CREATE ROLE IF NOT EXISTS data_scientists;
 -- ===============================
 -- 2️⃣ Criar Usuários
 -- ===============================
-CREATE USER IF NOT EXISTS bastos98 PASSWORD = 'Borge2025';
-CREATE USER IF NOT EXISTS ana_analyst PASSWORD = 'Senha123';
-CREATE USER IF NOT EXISTS carlos_ds PASSWORD = 'Senha123';
+CREATE USER IF NOT EXISTS bastos98 PASSWORD = '*******';
+CREATE USER IF NOT EXISTS ana_analyst PASSWORD = '******';
+CREATE USER IF NOT EXISTS carlos_ds PASSWORD = '*******';
 
 -- ===============================
 -- 3️⃣ Atribuir Roles aos Usuários
