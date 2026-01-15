@@ -1,0 +1,47 @@
+sale_id,sale_date,customer_name,customer_email,customer_gender,location_city,location_state,car_brand,car_model,car_year,car_color,engine_type,seller_name,sale_channel,price,discount_percentage,final_price,warranty_plan,payment_type,num_installments,booking_status
+1,2025-01-05,Maria Silva,maria@email.com,F,São Paulo,SP,Toyota,Corolla,2025,Red,Gas,Carlos Lima,In-store,25000,10,22500,Standard,Financing,12,Confirmed
+2,2025-01-20,João Santos,joao@email.com,M,Rio de Janeiro,RJ,Honda,Civic,2025,White,Hybrid,Ana Pereira,Online,30000,5,28500,Extended,Cash,1,Confirmed
+3,2025-02-03,Ana Costa,ana@email.com,F,Porto Alegre,RS,Ford,Focus,2025,Blue,Gas,Carlos Lima,In-store,22000,0,22000,Standard,Lease,24,Confirmed
+4,2025-02-18,Ricardo Alves,ricardo@email.com,M,Belo Horizonte,MG,Chevrolet,Cruze,2025,Black,Gas,Ana Pereira,Online,27000,15,22950,Extended,Financing,18,Confirmed
+5,2025-03-05,Carla Mendes,carla@email.com,F,São Paulo,SP,Toyota,RAV4,2025,Silver,Hybrid,Carlos Lima,In-store,35000,5,33250,Extended,Financing,24,Confirmed
+6,2025-03-12,Lucas Ferreira,lucas@email.com,M,Rio de Janeiro,RJ,Honda,HR-V,2025,Black,Gas,Ana Pereira,Online,28000,0,28000,Standard,Cash,1,Confirmed
+7,2025-03-20,Sofia Oliveira,sofia@email.com,F,Porto Alegre,RS,Ford,EcoSport,2025,Red,Gas,Carlos Lima,In-store,25000,10,22500,Standard,Financing,12,Confirmed
+8,2025-04-02,Rafael Souza,rafael@email.com,M,Belo Horizonte,MG,Chevrolet,Onix,2025,White,Gas,Ana Pereira,Online,20000,0,20000,Standard,Cash,1,Confirmed
+9,2025-04-08,Mariana Lima,mariana@email.com,F,São Paulo,SP,Toyota,Corolla,2025,Blue,Hybrid,Carlos Lima,In-store,25000,5,23750,Extended,Financing,18,Confirmed
+10,2025-04-15,Pedro Gomes,pedro@email.com,M,Rio de Janeiro,RJ,Honda,Civic,2025,Gray,Gas,Ana Pereira,Online,30000,10,27000,Extended,Lease,24,Confirmed
+11,2025-04-22,Aline Rocha,aline@email.com,F,Porto Alegre,RS,Ford,Focus,2025,Black,Gas,Carlos Lima,In-store,22000,0,22000,Standard,Cash,1,Confirmed
+12,2025-05-01,Bruno Carvalho,bruno@email.com,M,Belo Horizonte,MG,Chevrolet,Cruze,2025,Red,Hybrid,Ana Pereira,Online,27000,5,25650,Extended,Financing,12,Confirmed
+13,2025-05-07,Daniela Martins,daniela@email.com,F,São Paulo,SP,Toyota,RAV4,2025,White,Gas,Carlos Lima,In-store,35000,0,35000,Standard,Cash,1,Confirmed
+14,2025-05-14,Felipe Costa,felipe@email.com,M,Rio de Janeiro,RJ,Honda,HR-V,2025,Blue,Hybrid,Ana Pereira,Online,28000,10,25200,Extended,Financing,18,Cancelled
+15,2025-05-22,Patricia Nunes,patricia@email.com,F,Curitiba,PR,Volkswagen,Taos,2025,Gray,Gas,Carlos Lima,In-store,32000,5,30400,Extended,Financing,24,Confirmed
+16,2025-06-03,André Ribeiro,andre@email.com,M,São Paulo,SP,Toyota,Corolla Cross,2025,White,Hybrid,Ana Pereira,Online,34000,10,30600,Extended,Financing,18,Confirmed
+17,2025-06-10,Juliana Freitas,juliana@email.com,F,Rio de Janeiro,RJ,Jeep,Compass,2025,Black,Gas,Carlos Lima,In-store,36000,0,36000,Standard,Cash,1,Confirmed
+18,2025-06-18,Marcelo Araujo,marcelo@email.com,M,Belo Horizonte,MG,Chevrolet,Tracker,2025,Blue,Gas,Ana Pereira,Online,29000,5,27550,Standard,Financing,12,Confirmed
+19,2025-07-02,Renata Pacheco,renata@email.com,F,Porto Alegre,RS,Ford,Territory,2025,Silver,Hybrid,Carlos Lima,In-store,38000,10,34200,Extended,Financing,24,Confirmed
+20,2025-07-09,Thiago Lopes,thiago@email.com,M,São Paulo,SP,Toyota,Corolla,2025,Black,Gas,Ana Pereira,Online,25000,0,25000,Standard,Cash,1,Confirmed
+21,2025-07-15,Fernanda Maia,fernanda@email.com,F,Rio de Janeiro,RJ,Honda,City,2025,Red,Gas,Carlos Lima,In-store,23000,5,21850,Standard,Financing,12,Confirmed
+22,2025-08-01,Gabriel Torres,gabriel@email.com,M,Belo Horizonte,MG,Hyundai,Creta,2025,White,Hybrid,Ana Pereira,Online,31000,10,27900,Extended,Financing,18,Cancelled
+23,2025-08-08,Luciana Barros,luciana@email.com,F,Curitiba,PR,Volkswagen,T-Cross,2025,Blue,Gas,Carlos Lima,In-store,30000,0,30000,Standard,Cash,1,Confirmed
+24,2025-08-16,Rodrigo Peixoto,rodrigo@email.com,M,São Paulo,SP,Jeep,Renegade,2025,Gray,Gas,Ana Pereira,Online,28000,5,26600,Extended,Financing,12,Confirmed
+25,2025-08-22,Paulo Henrique,paulo@email.com,M,Recife,PE,Fiat,Pulse,2025,White,Gas,Carlos Lima,In-store,21000,5,19950,Standard,Financing,12,Confirmed
+26,2025-09-03,Vanessa Rocha,vanessa@email.com,F,Salvador,BA,Chevrolet,Onix Plus,2025,Silver,Gas,Ana Pereira,Online,23000,0,23000,Standard,Cash,1,Confirmed
+27,2025-09-10,Diego Moreira,diego@email.com,M,Campinas,SP,Volkswagen,Nivus,2025,Blue,Hybrid,Carlos Lima,In-store,29000,10,26100,Extended,Financing,24,Confirmed
+28,2025-09-18,Helena Duarte,helena@email.com,F,Florianópolis,SC,Hyundai,HB20,2025,Red,Gas,Ana Pereira,Online,22000,5,20900,Standard,Financing,12,Confirmed
+29,2025-10-02,Igor Matos,igor@email.com,M,Goiânia,GO,Toyota,Yaris,2025,Gray,Gas,Carlos Lima,In-store,24000,0,24000,Standard,Cash,1,Confirmed
+30,2025-10-09,Beatriz Farias,beatriz@email.com,F,Natal,RN,Jeep,Compass,2025,Black,Hybrid,Ana Pereira,Online,36000,10,32400,Extended,Financing,18,Confirmed
+31,2025-10-15,Rodrigo Neves,rodrigo@email.com,M,Vitória,ES,Ford,Ranger,2025,White,Diesel,Carlos Lima,In-store,42000,5,39900,Extended,Financing,36,Confirmed
+32,2025-11-01,Camila Pires,camila@email.com,F,Santos,SP,Honda,HR-V,2025,Silver,Gas,Ana Pereira,Online,28000,0,28000,Standard,Cash,1,Confirmed
+33,2025-11-08,Eduardo Cunha,eduardo@email.com,M,Uberlândia,MG,Chevrolet,Tracker,2025,Blue,Hybrid,Carlos Lima,In-store,29500,5,28025,Extended,Financing,12,Confirmed
+34,2025-11-18,Leticia Ramos,leticia@email.com,F,Maringá,PR,Fiat,Fastback,2025,Black,Gas,Ana Pereira,Online,27000,10,24300,Extended,Financing,24,Confirmed
+35,2025-11-25,Marcos Teixeira,marcos@email.com,M,São Luís,MA,Hyundai,Creta,2025,White,Gas,Carlos Lima,In-store,31000,5,29450,Standard,Financing,12,Cancelled
+36,2025-12-01,Juliana Azevedo,juliana@email.com,F,Fortaleza,CE,Toyota,Corolla,2025,Silver,Hybrid,Ana Pereira,Online,26000,10,23400,Extended,Financing,18,Pending
+37,2025-12-03,Ricardo Paes,ricardo@email.com,M,Campinas,SP,Honda,Civic,2025,Black,Gas,Carlos Lima,In-store,30000,0,30000,Standard,Cash,1,Confirmed
+38,2025-12-05,Natália Gomes,natalia@email.com,F,Aracaju,SE,Chevrolet,Onix,2025,Red,Gas,Ana Pereira,Online,21000,5,19950,Standard,Financing,12,Cancelled
+39,2025-12-08,Fábio Moura,fabio@email.com,M,João Pessoa,PB,Volkswagen,T-Cross,2025,Blue,Hybrid,Carlos Lima,In-store,32000,10,28800,Extended,Financing,24,Pending
+40,2025-12-10,Amanda Leal,amanda@email.com,F,São Paulo,SP,Jeep,Renegade,2025,Gray,Gas,Ana Pereira,Online,28000,0,28000,Standard,Cash,1,Confirmed
+41,2025-12-12,Bruno Macedo,bruno@email.com,M,Recife,PE,Fiat,Argo,2025,White,Gas,Carlos Lima,In-store,20000,5,19000,Standard,Financing,12,Cancelled
+42,2025-12-14,Carolina Torres,carolina@email.com,F,Niterói,RJ,Toyota,Yaris Cross,2025,Green,Hybrid,Ana Pereira,Online,27000,10,24300,Extended,Financing,18,Pending
+43,2025-12-16,Leonardo Rios,leonardo@email.com,M,Curitiba,PR,Volkswagen,Taos,2025,Black,Gas,Carlos Lima,In-store,33000,0,33000,Standard,Cash,1,Confirmed
+44,2025-12-18,Priscila Fontes,priscila@email.com,F,Cuiabá,MT,Chevrolet,Tracker,2025,Silver,Gas,Ana Pereira,Online,29000,5,27550,Extended,Financing,12,Pending
+45,2025-12-20,Rafael Guedes,rafael@email.com,M,Ribeirão Preto,SP,Ford,Territory,2025,Blue,Hybrid,Carlos Lima,In-store,38000,10,34200,Extended,Financing,24,Confirmed
+46,2025-12-22,Lucia Falcão,lucia@email.com,F,Manaus,AM,Hyundai,HB20S,2025,White,Gas,Ana Pereira,Online,22500,0,22500,Standard,Cash,1,Cancelled
