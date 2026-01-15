@@ -1,7 +1,5 @@
 # Car Sales Analysis – Snowflake
-
 <img width="1536" height="1024" alt="pipeline-snowflake" src="https://github.com/user-attachments/assets/0a61ed4f-93d8-4e77-8b0b-0df8927ec0fd" />
-
 
 ## Descrição
 Projeto de análise de vendas de carros para o ano de 2025, usando Snowflake como data warehouse.  
